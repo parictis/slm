@@ -1,6 +1,7 @@
 # slm
-Share Local Media repository
+SLM repository
 
-Bjørn Østman, PhD
-From Copenhagen, Denmark
-email: bjorn@sharelocalmedia.com
+Bjørn Østman
+Data Scientist
+Share Local Media
+bjorn@sharelocalmedia.com
